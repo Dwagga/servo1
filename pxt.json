@@ -1,0 +1,27 @@
+{
+    "name": "servo1",
+    "description": "",
+    "dependencies": {
+        "adafruit-feather-m4-express": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.47",
+        "tag": "v0.13.47",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/611ef12afbd60ce513de8e3becbc706d1c0d374d",
+        "target": "0.13.48",
+        "pxt": "6.1.18",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
